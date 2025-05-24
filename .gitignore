@@ -1,0 +1,24 @@
+# Node
+node_modules/
+.env
+
+# React Native / Expo
+.expo/
+.expo-shared/
+android/
+ios/
+*.log
+*.lock
+*.keystore
+
+# Build artifacts
+build/
+dist/
+
+# IDE / OS
+.vscode/
+.DS_Store
+
+# Sensitive
+google-services.json
+serviceAccountKey.json
